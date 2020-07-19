@@ -2,11 +2,21 @@ import Typography from "typography"
 
 import Bootstrap from "typography-theme-bootstrap"
 
+let linkColor = '#0B3C5D'
+let unclickedLinkColor = '#00688B'
+
 Bootstrap.overrideThemeStyles = () => {
   return {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    'a:hover': {
+      color: linkColor,
+      textDecoration: 'underline'
+    },
+    a: {
+      color: unclickedLinkColor,
+      textDecoration: "none",},
   }
 }
 

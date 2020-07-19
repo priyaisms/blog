@@ -19,23 +19,27 @@ const Header = () => {
   )
 }
 
-const Layout = ({ location, title, children }) => {
+const   Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
-  if (location.pathname === rootPath) {
+  if (location.pathname === rootPath || location.pathname === aboutPath)) {
     header = (
       <h1
         style={{
           ...scale(1.5),
           marginBottom: rhythm(1.5),
           marginTop: 0,
+          textTransform: `uppercase`,
+            textAlign: 'center',
         }}
       > 
         <Link
           style={{
             boxShadow: `none`,
-            color: `inherit`,
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: siteColor
           }}
           to={`/`}
         >
@@ -75,9 +79,9 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <Header />
       <main>{children}</main>
-      <footer>
+      <footer style={{fontSize: '11px'}}>
         © {new Date().getFullYear()}, Built with
-        {` `}
+        {` `} 
         <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>
     </div>

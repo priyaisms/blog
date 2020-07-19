@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `PRIYA GARG`,
+    title: `Priya Garg`,
     author: {
       name: `Priya Garg`,
       summary: `:TBD.`,
