@@ -24,7 +24,7 @@ const Bio = () => {
       site {
         siteMetadata {
           author {
-            name
+            name  
             summary
           }
           social {
