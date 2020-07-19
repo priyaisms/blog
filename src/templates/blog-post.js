@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+import kebabCase from "lodash.kebabcase"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -37,9 +37,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
             
-    {tags.map(t => (
+    {/* {tags.map(t => (
       <Link to={`/tags/`}>{t}</Link>
-      ))}
+      ))} */}
+      {tags.map(t => (
+      <li key={kebabCase(t)}>
+        <Link to={`/tags/${kebabCase(t)}`}>{t}</Link>
+      </li>
+    ))}
           </p>  
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
