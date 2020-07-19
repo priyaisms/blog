@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Priya Garg`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Priya Garg`,
+      summary: `:TBD.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Personal website of Priya Garg`,
+    siteUrl: `http://priya-garg.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `priyaisms`, 
     },
   },
   plugins: [
@@ -74,6 +74,13 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/pages`,
+        name: `assets`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -1,7 +1,23 @@
 import React from "react"
 import { Link } from "gatsby"
+import "./layout.css"
 
 import { rhythm, scale } from "../utils/typography"
+
+const Header = () => {
+  return (
+    <nav>
+      <ol>
+        <li>
+          <Link to="/">Blog</Link>
+        </li>
+        <li>
+          <Link to="/about">About</Link>
+        </li>
+      </ol>
+    </nav>
+  )
+}
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -57,6 +73,7 @@ const Layout = ({ location, title, children }) => {
       }}
     >
       <header>{header}</header>
+      <Header />
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
