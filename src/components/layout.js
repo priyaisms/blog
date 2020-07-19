@@ -7,12 +7,25 @@ import { rhythm, scale } from "../utils/typography"
 const Header = () => {
   return (
     <nav>
-      <ol>
+
+      <ol> 
         <li>
-          <Link to="/">Blog</Link>
+          <Link style={{
+              // color: `inherit`,
+              // margin: '0 10px',
+              // textAlign: 'center',
+              fontSize: '150%',
+            }}  
+             to="/">Blog</Link>
         </li>
         <li>
-          <Link to="/about">About</Link>
+          <Link style={{
+              // color: `inherit`,
+              // margin: '0 10px',
+              // textAlign: 'center',
+              fontSize: '150%',
+            }}   
+            to="/about">About</Link>
         </li>
       </ol>
     </nav>
@@ -21,9 +34,10 @@ const Header = () => {
 
 const   Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
+  const aboutPath = `${__PATH_PREFIX__}/about`
   let header
 
-  if (location.pathname === rootPath || location.pathname === aboutPath)) {
+  if (location.pathname === rootPath || location.pathname === aboutPath) {
     header = (
       <h1
         style={{
@@ -39,7 +53,7 @@ const   Layout = ({ location, title, children }) => {
             boxShadow: `none`,
             boxShadow: `none`,
             textDecoration: `none`,
-            color: siteColor
+            color: 'inherit',
           }}
           to={`/`}
         >
@@ -47,12 +61,16 @@ const   Layout = ({ location, title, children }) => {
         </Link>
       </h1>
     )
+        
   } else {
     header = (
-      <h3
+      <h1
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          ...scale(1.5),
+          marginBottom: rhythm(1.5),
           marginTop: 0,
+          textTransform: `uppercase`,
+            textAlign: 'center',
         }}
       >
         <Link
@@ -64,7 +82,7 @@ const   Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
-      </h3>
+      </h1>
     )
   }
   return (
@@ -72,7 +90,7 @@ const   Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(30),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >

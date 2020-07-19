@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import kebabCase from "lodash/kebabCase"
 import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
@@ -27,7 +28,12 @@ const BlogIndex = ({ data, location }) => {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <small>{node.frontmatter.date} in </small>
+              <small style={{textTransform: 'uppercase', color: '#00688B'}}>
+              <Link to={`/tags/${kebabCase(node.frontmatter.tags)}/`}>
+                #{node.frontmatter.tags}
+              </Link>
+              </small>
             </header>
             <section>
               <p
