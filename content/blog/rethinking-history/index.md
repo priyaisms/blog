@@ -57,6 +57,7 @@ Americans, well...didn’t.
 Germany vs America: contrasting legacies shown in photos
 
 
+
 ### According a funnily until pre-set or arrogant well cheerful
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
