@@ -6,25 +6,37 @@ templateKey: blog-post
 ---
 
 > America is not unique in its sins as a country. We’re not unique in our evils...I think where we may be singular is our refusal to acknowledge them. And the legends and myths we tell about our inherent, you know, good-ness to hide and cover and conceal so that we can maintain a kind of willful ignorance that protects our innocence. 
->> _Princeton Professor Eddie Glaude, commenting on MSNBC in August 2019_
+> _Princeton Professor Eddie Glaude, commenting on MSNBC in August 2019_
 
-## On deer horse aboard tritely yikes and much
+Lately, I’ve been studying a lot of history. When I was in school, history just felt like memorizing the dates of supposedly “important” events and the names of dead people; I couldn’t fathom how it could be applicable for my life.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+But now, I understand that our interpretation of history is perhaps the single greatest thing that influences our lens on the present: why things are the way they are, what is unjust and what is deserved, what kind of contribution we want to make to the world around us before we go. So I’ve taken it upon myself to invest in a bit of re-education: These Truths for a new perspective on U.S. history; From The Ruins of Empire to better understand Asia’s perspective; Upheaval to learn about the levers that lead turmoiled nations to either further degradation or recovery; Roman Empire history; Indigenous American history; and more.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+One of the most helpful practices I’ve developed in my self-education is asking questions. And especially recently, I’ve had a lot of questions about the plight of Black people in America. 
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+Why is police brutality towards Black Americans normalized and unprosecuted? Why are they more likely to be sent to the frontlines to serve communities in the midst of a crippling pandemic, yet are least likely to have the support of healthcare infrastructure to match this burden? Why does the Black community consistently rank lower than other groups on measures such as home ownership, wealth accumulation, education levels, and health?
+
+Given our painful two-hundred-year legacy of enslavement, some may feel that our current situation, while painful, was inevitable. Any reasonable nineteenth-century spectator would’ve predicted the ascent from slavery to true equality to be a long, laborious process, right? Maybe enacting significant change within long-standing political and societal structures was always going to be challenging, not unlike agonizingly thrusting a boulder up a large hill; starting and stopping, sometimes taking a step back, ever in aspiration of a glimpse over the horizon.
+
+But the inconvenient truth is that it didn’t need to be this way. Other countries have wrestled with painful legacies yet have emerged in a much different place than us today.
+
+Today, class, we’re going to learn about...dun dun dun...Germany!
+
+I’m not the first to suggest that America could take a pointer on moving past racism from Germany’s wrangling with Nazism. But stick around...my essay comes with _photos._
+
+## Onto the good stuff: a bunch of important events and some names of dead people
+
+At first, post-World-War-Two Germany and post-Civil-War America seemed to chart very similar courses. Both initially prioritized amnesty and integration. 
+
+Neither country aggressively prosecuted leaders of the deposed groups. Although much has been made of the Nurmeburg trials, only twenty-five of the top Nazi officials were put on trial. After the Civil War, no Confederate leaders were prosecuted.
+
+Both countries reinstated Nazi/Confederate leaders into positions of power. 
+
+### The nefarious consequence of these practices became a lack of acknowledgement of the actions and beliefs that had led to war in the first place. 
+
+“In Germany, the Nuremburg trials were dismissed as ‘Siegerjustiz’: mere revenge taken by the victors upon the vanquished...The prevailing German view became that Nazi crimes were the fault of just a tiny clique of evil individual leaders, and that the vast majority of Germans were innocent,” Jared Diamond explains in Upheaval. 
+
+In America, a narrative unfolded that the Civil War hadn’t been fought over slavery; it was about states’ rights. Instead of a nationwide self-apprisal over our perpetuation of a monstrous human rights violation, Southern states were allowed to reinstate slavery in everything but name through unpaid indentured servitute, or sharecropping. 
 
 ### Overlaid the jeepers uselessly much excluding
 
