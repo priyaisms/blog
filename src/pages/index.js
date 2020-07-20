@@ -21,21 +21,24 @@ const BlogIndex = ({ data, location }) => {
             <header>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(0 / 4),
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date} in </small>
+              <small style={{textTransform: 'uppercase', color: '#00688B'}}>{node.frontmatter.date} in </small>
               <small style={{textTransform: 'uppercase', color: '#00688B'}}>
               <Link to={`/tags/${kebabCase(node.frontmatter.tags)}/`}>
                 #{node.frontmatter.tags}
               </Link>
               </small>
             </header>
-            <section>
+            <section
+            style={{
+              marginTop: rhythm(2 / 4),
+            }}>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,

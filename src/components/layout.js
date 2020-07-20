@@ -6,26 +6,28 @@ import { rhythm, scale } from "../utils/typography"
 
 const Header = () => {
   return (
-    <nav>
+    <nav style={{background:'#f2f2f2', margin: '15px 0px 15px 0px', width: '100%'}}>
 
       <ol> 
         <li>
           <Link style={{
               // color: `inherit`,
-              // margin: '0 10px',
+              margin: '15px 0px 10px 0px',
               // textAlign: 'center',
               fontSize: '150%',
+              display: 'flex',
             }}  
-             to="/">Blog</Link>
+             to="/">blog</Link>
         </li>
         <li>
           <Link style={{
               // color: `inherit`,
-              // margin: '0 10px',
+              margin: '15px 0px 10px 0px',
               // textAlign: 'center',
               fontSize: '150%',
+              display: 'flex',
             }}   
-            to="/about">About</Link>
+            to="/about">about</Link>
         </li>
       </ol>
     </nav>
@@ -42,8 +44,9 @@ const   Layout = ({ location, title, children }) => {
       <h1
         style={{
           ...scale(1.5),
-          marginBottom: rhythm(1.5),
+          marginBottom: rhythm(1),
           marginTop: 0,
+          marginBottom: 10,
           textTransform: `uppercase`,
             textAlign: 'center',
         }}
@@ -98,7 +101,7 @@ const   Layout = ({ location, title, children }) => {
       <Header />
       <main>{children}</main>
       <footer style={{fontSize: '11px'}}>
-        © {new Date().getFullYear()}, Built with
+      © {new Date().getFullYear()} Priya Garg, Built with
         {` `} 
         <a href="https://www.gatsbyjs.org">Gatsby</a>
       </footer>
