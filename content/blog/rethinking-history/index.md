@@ -33,7 +33,7 @@ Neither country aggressively prosecuted leaders of the deposed groups. Although 
 
 Both countries reinstated Nazi/Confederate leaders into positions of power. 
 
-#### The nefarious consequence of these practices became a lack of acknowledgement of the actions and beliefs that had led to war in the first place. 
+### The nefarious consequence of these practices became a denial of the actions that had led to war in the first place. 
 
 “In Germany, the Nuremburg trials were dismissed as ‘Siegerjustiz’: mere revenge taken by the victors upon the vanquished...The prevailing German view became that Nazi crimes were the fault of just a tiny clique of evil individual leaders, and that the vast majority of Germans were innocent,” Jared Diamond explains in Upheaval. 
 
