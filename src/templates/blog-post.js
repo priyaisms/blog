@@ -10,7 +10,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  const tags = post.frontmatter.tags || []
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -26,7 +25,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: 0,
             }}
           >
-            {post.frontmatter.title}
+            {post.frontmatter.title} 
           </h1>
           <p
             style={{
@@ -35,23 +34,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date} in <ul style={{
-      // display: `flex`,
-      // flexWrap: `wrap`,
-      // justifyContent: `space-around`,
-      // listStyle: `none`,
-      display: 'inline',
-      content: ", "
-    }} > {tags.map(t => (
-      <li key={kebabCase(t)}>
-        <Link to={`/tags/${kebabCase(t)}`}>{t}</Link>
-      </li>
-      
-    ))}
-     </ul>
+            {post.frontmatter.date} in <Link to={`/tags/${kebabCase(post.frontmatter.tags)}/`} style={{textTransform: 'uppercase'}}>
+                #{post.frontmatter.tags}  </Link> 
             
-
-    
           </p>  
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />

@@ -2,7 +2,7 @@
 title: We Need to Rethink Everything About American History
 date: "2020-07-21"
 description: Or, "What They Didn't Teach You About Black History." We may have beat the Nazis in WWII, but is Germany beating us at charting a path forward?
-tags: ["history","america"]
+tags: ["history"]
 templateKey: blog-post
 ---
 
@@ -12,15 +12,15 @@ templateKey: blog-post
 
 When I was in school, history class just felt like memorizing the dates of supposedly “important” events and the names of dead people. I couldn’t fathom how it could be applicable for my life.
 
-But now, I understand that our interpretation of history is perhaps the single greatest thing that influences our lens on the present: why things are the way they are, what is unjust and what is deserved, what kind of contribution we want to make to the world around us before we go. So I’ve taken it upon myself to invest in a bit of re-education: These Truths for a new perspective on U.S. history; From The Ruins of Empire to better understand Asia’s perspective; Roman Empire history; Indigenous American history; and more.
+But now, I understand that our interpretation of history is perhaps the single greatest thing that influences our lens on the present: why things are the way they are, what is unjust and what is deserved, what kind of contribution we want to make to the world around us before we go. So I’ve taken it upon myself to invest in a bit of re-education: [These Truths](https://www.goodreads.com/book/show/43726521-these-truths) for a new perspective on U.S. history; [From The Ruins of Empire](https://www.goodreads.com/book/show/13536357-from-the-ruins-of-empire?from_search=true&from_srp=true&qid=HV5mLRL9LZ&rank=1) to better understand Asia’s perspective; Roman Empire history; Indigenous American history; and more.
 
 One of the most helpful practices I’ve developed in my self-education is asking questions. And especially recently, I’ve had a lot of questions about the plight of Black people in America. 
 
-#### Why is police brutality towards Black Americans [normalized](https://www.nature.com/articles/d41586-020-01846-z)? Why are they [more likely](https://www.cbsnews.com/news/black-workers-lives-essential-frontline-jobs-risk-coronavirus-reopening/) to be sent to the frontlines in a crippling pandemic, yet are [least likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370590/) to have the support of healthcare infrastructure to match this burden? Why does the Black community consistently [rank lower](https://www.ssa.gov/policy/docs/ssb/v64n4/v64n4p1.html) than others home ownership measures, wealth accumulation, and education levels?
+#### Why is police brutality towards Black Americans [normalized](https://www.nature.com/articles/d41586-020-01846-z)? Why are they [more likely](https://www.cbsnews.com/news/black-workers-lives-essential-frontline-jobs-risk-coronavirus-reopening/) to be sent to the frontlines in a crippling pandemic, yet are [least likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370590/) to have the support of healthcare infrastructure to match this burden? Why does the Black community consistently [rank lower](https://www.ssa.gov/policy/docs/ssb/v64n4/v64n4p1.html) than others on home ownership measures, wealth accumulation, and education levels?
 
 Given our painful two-hundred-year legacy of enslavement, some may feel that our current situation was inevitable. Any nineteenth-century spectator would’ve predicted the ascent from slavery to true equality to be a long, laborious process, right? Maybe it was always going to feel like agonizingly thrusting a boulder up a large hill; starting and stopping, sometimes taking a step back, ever in aspiration of a glimpse over the horizon.
 
-But the inconvenient truth is that it didn’t need to be this way. Other countries have wrestled with painful legacies yet have emerged in a much different place than us today.
+But the inconvenient truth is that it didn’t need to be this way. Other countries have wrestled with painful legacies yet have emerged in a much different place.
 
 Today, class, we’re going to learn about...dun dun dun...**Germany**! 🇩🇪
 
@@ -38,9 +38,9 @@ Both countries reinstated Nazi/Confederate leaders into positions of power.
 
 > “In Germany, the Nuremburg trials were dismissed as ‘Siegerjustiz’: mere revenge taken by the victors upon the vanquished...The prevailing German view became that Nazi crimes were the fault of just a tiny clique of evil individual leaders, and that the vast majority of Germans were innocent."
 >
-> _-Excerpt from "Upheaval" by sJared Diamond_ 
+> _-Excerpt from "Upheaval" by Jared Diamond_ 
 
-In America, a narrative unfolded that the Civil War hadn’t been fought over slavery; it was about states’ rights. Instead of a nationwide self-apprisal over our perpetuation of a monstrous human rights violation and the racism this embedded into our conscious, Southern states were allowed to commit civil rights violations left and right. Southern governmental offices became a revolving door of Ku Klux Klan members.
+In America, a narrative unfolded that the Civil War hadn’t been fought over slavery; it was about states’ rights. Instead of a nationwide self-apprisal over our perpetuation of a monstrous human rights violation and the racism this embedded into our consciousness, Southern states were permitted to commit civil rights violations left and right. Southern governmental offices became a revolving door of Ku Klux Klan members.
 
 ## Two roads diverged...
 
@@ -84,13 +84,13 @@ As any parent says to a child who’s done something regrettable: it’s normal 
 
 “Apologizing and making amends” won’t magically erase pain and suffering. But until we do this, America will always be haunted by the spectre of our past, and regarded as a hypocrite by our global neighbors. This will not just cripple our ability to manifest the promise of our country for its citizens; it will perpetuate the cycle. 
 
-#### After all, as I’m learning more and more as I crack open these books, those that fail to study history are doomed to repeat it.
+#### After all, those that fail to study history are doomed to repeat it.
 
-Repentance is an ongoing process, and we shouldn’t be seeking silver bullets that will allow us to “move on”. In order to chart a course for what reconciliation might look like, we need to better understand the nature of our sins. We need to weave our failures into the fabric of our historical narratives. 
+Repentance is an ongoing process, and we shouldn’t be seeking silver bullets that will allow us to “move on”. In order to chart a course for what reconciliation, we need to better understand the nature of our sins. We need to weave our failures into the fabric of our historical narratives. 
 
 #### America is based on ideals of reinvention, of always striving for better. We will always falter and fail. How best do we ensure survival and continuous improvement? Simple: by holding our failures up in the light, examining them side-by-side with our successes, and appreciating the reality of both. 
 
-We need to learn to be comfortable with the mixed legacy of figures like George Washington and Thomas Jefferson: we can lament that they were slave-owners till their deaths while also being proud of the indelible torch of freedom and liberty they thrust forward.
+We need to learn to be comfortable with the mixed legacy of figures like George Washington and Thomas Jefferson: we can lament that they were slave-owners till their deaths while also being proud of the indelible torches of freedom and liberty they thrust forward.
 
 Or take Woodrow Wilson. The man was a bonafide racist - amongst many examples I could pull from here, no Black Civil War veterans were permitted to attend the 50th anniversary memorial celebrations of the Battle of Gettysburg during his presidential tenure - but his leadership after World War One heralded a new global era of self-representation and democracy.
 
