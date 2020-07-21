@@ -14,7 +14,7 @@ const Tags = ({ pageContext, data }) => {
   } tagged with "${tag}"`
 
   return (
-    <Layout location={''} title={'Shreya Shankar'}>
+    <Layout location={''} title={'Priya Garg'}>
       <SEO
         title={tagHeader}
         description={tagHeader}
