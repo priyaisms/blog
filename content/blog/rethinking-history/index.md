@@ -2,6 +2,9 @@
 title: We Need to Rethink Everything About American History
 date: "2020-07-21"
 description: Or, "What They Didn't Teach You About Black History." We may have beat the Nazis in WWII, but is Germany beating us at charting a path forward?
+tags:
+- tag1
+- tag2
 templateKey: blog-post
 ---
 
@@ -65,7 +68,7 @@ Unlike the Nuremberg trials, he went after minor officials--doctors, judges, low
 
 ![Concentration camps vs plantations](./num4.png)
 
-![Holocaust memorial day vs Confederate memorial day](./num5.png)
+![Holocaust memorial day vs Confederate Memorial](./num5.png)
 
 Of course, Germany is not perfect. Especially recently, some Germans are [concerned](https://www.theatlantic.com/international/archive/2019/04/germany-far-right-holocaust-education-survivors/586357/) that the “culture of [Halocaust] remembrance is crumbling”. An anti-semitic far-right political group has gained some momentum. But still, when [asked in a recent poll](https://www.dw.com/en/germans-want-to-uphold-culture-of-holocaust-remembrance/a-52125596) whether it was time to close the chapter on Nazi crimes, 60% of German respondents said it was important to remember the past.
 
