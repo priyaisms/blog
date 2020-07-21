@@ -35,16 +35,23 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date}
-            
-    {/* {tags.map(t => (
-      <Link to={`/tags/`}>{t}</Link>
-      ))} */}
-      {tags.map(t => (
+            {post.frontmatter.date} in <ul style={{
+      // display: `flex`,
+      // flexWrap: `wrap`,
+      // justifyContent: `space-around`,
+      listStyle: `none`,
+      display: 'inline',
+      content: ", "
+    }} > {tags.map(t => (
       <li key={kebabCase(t)}>
         <Link to={`/tags/${kebabCase(t)}`}>{t}</Link>
       </li>
+      
     ))}
+     </ul>
+            
+
+    
           </p>  
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
