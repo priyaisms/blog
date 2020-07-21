@@ -2,9 +2,7 @@
 title: Hello World
 date: "2020-07-19"
 description: "This is a test description."
-tags:
-- tag1
-- tag2
+tags: ["tag1","tag2"]
 templateKey: blog-post
 ---
 

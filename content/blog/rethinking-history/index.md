@@ -2,9 +2,7 @@
 title: We Need to Rethink Everything About American History
 date: "2020-07-21"
 description: Or, "What They Didn't Teach You About Black History." We may have beat the Nazis in WWII, but is Germany beating us at charting a path forward?
-tags:
-- tag1
-- tag2
+tags: ["history","america"]
 templateKey: blog-post
 ---
 
