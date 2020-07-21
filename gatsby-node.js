@@ -1,5 +1,6 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const kebabCase = require("lodash.kebabcase")
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -54,19 +55,37 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  // Extract tag data from query
-  const tags = result.data.tagsGroup.group
+  let tags = []
+// Iterate through each post, putting all found tags into `tags`
 
-  // Make tag pages
-  tags.forEach(tag => {
-    createPage({
-      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
-      component: tagTemplate,
-      context: {
-        tag: tag.fieldValue,
-      },
-    })
+posts.forEach(edge => {
+  if (edge.node.frontmatter.tags) {
+    tags = tags.concat(edge.node.frontmatter.tags)
+  }
+})
+// Eliminate duplicate tags
+tags = uniq(tags)
+
+var uniq = arrArg => {
+  return arrArg.filter((elem, pos, arr) => {
+    return arr.indexOf(elem) == pos
   })
+}
+
+const tagTemplate = path.resolve("src/templates/tags.js")
+// Make tag pages
+tags.forEach(tag => {
+  createPage({
+    path: `/tags/${kebabCase(tag)}/`,
+    component: tagTemplate,
+    context: {
+      tag,
+    },
+  })
+})
+
+
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

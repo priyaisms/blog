@@ -39,7 +39,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       // display: `flex`,
       // flexWrap: `wrap`,
       // justifyContent: `space-around`,
-      listStyle: `none`,
+      // listStyle: `none`,
       display: 'inline',
       content: ", "
     }} > {tags.map(t => (
