@@ -57,7 +57,15 @@ Unlike the Nuremberg trials, he went after minor officials--doctors, judges, low
 
 ## Germany vs America: contrasting legacies shown in photos
 
+![Beate Klarsfeld vs Ku Klux Klan](./num1.png)
 
+![Willy Brandt vs Plessy/Ferguson](./num2.png)
+
+![reparations](./num3.png)
+
+![Concentration camps vs plantations](./num4.png)
+
+![Holocaust memorial day vs Confederate memorial day](./num5.png)
 
 Of course, Germany is not perfect. Especially recently, some Germans are [concerned](https://www.theatlantic.com/international/archive/2019/04/germany-far-right-holocaust-education-survivors/586357/) that the “culture of [Halocaust] remembrance is crumbling”. An anti-semitic far-right political group has gained some momentum. But still, when [asked in a recent poll](https://www.dw.com/en/germans-want-to-uphold-culture-of-holocaust-remembrance/a-52125596) whether it was time to close the chapter on Nazi crimes, 60% of German respondents said it was important to remember the past.
 
